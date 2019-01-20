@@ -2,7 +2,7 @@
 
 In this repo I tried to construct couple simple [triplet networks](https://arxiv.org/abs/1412.6622) experiments to gain better intuition on how they work.
 
-Triplet network is a simple and intuitive embedding idea whtich tries to decrease distance between samples from class A ($x$ and $x^{+}$) and increase distance from $x$ to class B ($x^{-}$).
+Triplet network is a simple and intuitive embedding idea whtich tries to decrease distance between samples from class A ($$x$$ and $$x^{+}$$) and increase distance from $$x$$ to class B ($$x^{-}$$).
 
 ![Triplet network](triplet_net.jpg)
 
